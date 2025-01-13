@@ -1,5 +1,7 @@
 # Interrupção - Oracle Next Educationon
 
+---
+
 ## Uma Jornada Memorável
 Desde abril, embarquei em uma experiência incrível no Oracle Next Education. Cada módulo, cada projeto e cada desafio trouxeram aprendizados inestimáveis que moldaram minha forma de pensar e desenvolver soluções tecnológicas. Foi um percurso enriquecedor, onde me deparei com conceitos avançados, boas práticas de desenvolvimento e a oportunidade de interagir com uma comunidade vibrante e colaborativa.  
 
